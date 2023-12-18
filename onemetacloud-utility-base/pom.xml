@@ -1,0 +1,24 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>cn.ideartefact</groupId>
+        <artifactId>onemetacloud-parent</artifactId>
+        <version>1.0.0-starter</version>
+    </parent>
+    <artifactId>utility-base</artifactId>
+    <packaging>jar</packaging>
+    <name>utility-base</name>
+    <dependencies>
+        <dependency>
+            <groupId>cn.ideartefact</groupId>
+            <artifactId>json</artifactId>
+            <version>1.0.0-starter</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+    </dependencies>
+
+</project>

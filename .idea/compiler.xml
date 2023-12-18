@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="authcenter" />
+        <module name="onemetacloud-authcenter" />
+        <module name="onemeta-json-orm" />
+        <module name="onemetacloud-json" />
+        <module name="onemetacloud-utility-base" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="onemetacloud-json-orm" target="17" />
+      <module name="OneMetaJsonORM" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="One Meta Cloud" options="-parameters" />
+      <module name="OneMetaJsonORM" options="-parameters" />
+      <module name="authcenter" options="-parameters" />
+      <module name="onemeta-json-orm" options="-parameters" />
+      <module name="onemetacloud-authcenter" options="-parameters" />
+      <module name="onemetacloud-json" options="-parameters" />
+      <module name="onemetacloud-json-orm" options="-parameters" />
+      <module name="onemetacloud-utility-base" options="-parameters" />
+    </option>
+  </component>
+</project>

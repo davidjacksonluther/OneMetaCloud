@@ -1,0 +1,21 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>cn.ideartefact</groupId>
+        <artifactId>onemetacloud-parent</artifactId>
+        <version>1.0.0-starter</version>
+    </parent>
+    <groupId>cn.ideartefact</groupId>
+    <artifactId>json</artifactId>
+    <version>1.0.0-starter</version>
+    <packaging>jar</packaging>
+    <name>json</name>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.google.errorprone</groupId>
+            <artifactId>error_prone_annotations</artifactId>
+            <version>2.23.0</version>
+        </dependency>
+    </dependencies>
+</project>

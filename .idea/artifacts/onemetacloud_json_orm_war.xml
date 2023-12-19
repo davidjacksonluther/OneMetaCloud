@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="onemetacloud-json-orm:war">
+    <output-path>$PROJECT_DIR$/onemetacloud-json-orm/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>onemetacloud-json-orm</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="onemetacloud-json-orm-1.0.0-starter.war">
+      <element id="artifact" artifact-name="onemetacloud-json-orm:war exploded" />
+    </root>
+  </artifact>
+</component>

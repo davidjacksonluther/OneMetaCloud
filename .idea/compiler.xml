@@ -8,27 +8,35 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="authcenter" />
+        <module name="onemetacloud-json-orm" />
+        <module name="utility-base" />
         <module name="onemetacloud-authcenter" />
-        <module name="onemeta-json-orm" />
         <module name="onemetacloud-json" />
         <module name="onemetacloud-utility-base" />
+        <module name="json" />
+        <module name="onemeta-json-orm" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="onemetacloud-json-orm" target="17" />
+      <module name="authcenter" target="1.5" />
+      <module name="json" target="17" />
+      <module name="onemetacloud-json-orm" target="1.5" />
       <module name="OneMetaJsonORM" target="17" />
+      <module name="utility-base" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="One Meta Cloud" options="-parameters" />
       <module name="OneMetaJsonORM" options="-parameters" />
-      <module name="authcenter" options="-parameters" />
+      <module name="authcenter" options="" />
+      <module name="json" options="-parameters" />
       <module name="onemeta-json-orm" options="-parameters" />
       <module name="onemetacloud-authcenter" options="-parameters" />
       <module name="onemetacloud-json" options="-parameters" />
-      <module name="onemetacloud-json-orm" options="-parameters" />
+      <module name="onemetacloud-json-orm" options="" />
       <module name="onemetacloud-utility-base" options="-parameters" />
+      <module name="utility-base" options="-parameters" />
     </option>
   </component>
 </project>

@@ -6,13 +6,12 @@
 		<groupId>cn.ideartefact</groupId>
 		<artifactId>onemetacloud-parent</artifactId>
 		<version>1.0.0-starter</version>
-		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>cn.ideartefact</groupId>
 	<artifactId>onemetacloud-json-orm</artifactId>
 	<version>1.0.0-starter</version>
 	<name>json-orm</name>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<description>JSON ORM, NO Entity. Release Entity</description>
 	<properties>
 		<java.version>17</java.version>

@@ -1,7 +1,6 @@
 <script>
 import { applyPureReactInVue} from 'veaury'
 import { Button, Flex } from 'antd';
-import {ref} from 'vue'
   export default {
     computed :{
       username(){

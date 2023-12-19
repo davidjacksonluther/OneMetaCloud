@@ -6,7 +6,6 @@
         <groupId>cn.ideartefact</groupId>
         <artifactId>onemetacloud-parent</artifactId>
         <version>1.0.0-starter</version>
-        <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>cn.ideartefact</groupId>
     <artifactId>authcenter</artifactId>

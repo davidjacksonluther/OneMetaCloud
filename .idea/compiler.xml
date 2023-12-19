@@ -18,9 +18,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="authcenter" target="1.5" />
+      <module name="authcenter" target="17" />
       <module name="json" target="17" />
-      <module name="onemetacloud-json-orm" target="1.5" />
+      <module name="onemetacloud-json-orm" target="17" />
+      <module name="onemetacloud-parent" target="1.5" />
       <module name="OneMetaJsonORM" target="17" />
       <module name="utility-base" target="17" />
     </bytecodeTargetLevel>
@@ -29,12 +30,12 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="One Meta Cloud" options="-parameters" />
       <module name="OneMetaJsonORM" options="-parameters" />
-      <module name="authcenter" options="" />
+      <module name="authcenter" options="-parameters" />
       <module name="json" options="-parameters" />
       <module name="onemeta-json-orm" options="-parameters" />
       <module name="onemetacloud-authcenter" options="-parameters" />
       <module name="onemetacloud-json" options="-parameters" />
-      <module name="onemetacloud-json-orm" options="" />
+      <module name="onemetacloud-json-orm" options="-parameters" />
       <module name="onemetacloud-utility-base" options="-parameters" />
       <module name="utility-base" options="-parameters" />
     </option>

@@ -12,6 +12,7 @@
     "@icon-park/vue-next": "1.4.2",
     "@rollup/rollup-win32-x64-msvc": "^4.9.1",
     "antd": "^5.12.2",
+    "form-render": "^2.3.6",
     "veaury": "^2.3.12",
     "vue": "^3.3.11",
     "vue-router": "^4.2.5"

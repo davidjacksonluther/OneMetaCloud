@@ -2,7 +2,7 @@
 /*/target/
 /*.iml
 /*/*.iml
-/.idea/
+/.idea/*
 # Compiled class file
 *.class
 
@@ -28,3 +28,6 @@
 hs_err_pid*
 replay_pid*
 
+
+# idea structure
+*.iml

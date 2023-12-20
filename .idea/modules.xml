@@ -4,9 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/onemetacloud-authcenter/authcenter.iml" filepath="$PROJECT_DIR$/onemetacloud-authcenter/authcenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/onemetacloud-json/json.iml" filepath="$PROJECT_DIR$/onemetacloud-json/json.iml" />
-      <module fileurl="file://$PROJECT_DIR$/onemetacloud-json-orm/onemetacloud-json-orm.iml" filepath="$PROJECT_DIR$/onemetacloud-json-orm/onemetacloud-json-orm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/onemetacloud-onestartadmin-portal/onemetacloud-onestartadmin-portal.iml" filepath="$PROJECT_DIR$/onemetacloud-onestartadmin-portal/onemetacloud-onestartadmin-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onemetacloud-json-orm/json-orm.iml" filepath="$PROJECT_DIR$/onemetacloud-json-orm/json-orm.iml" />
       <module fileurl="file://$PROJECT_DIR$/onemetacloud-parent.iml" filepath="$PROJECT_DIR$/onemetacloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onemetacloud-onestartadmin-portal/onestartadmin-portal.iml" filepath="$PROJECT_DIR$/onemetacloud-onestartadmin-portal/onestartadmin-portal.iml" />
       <module fileurl="file://$PROJECT_DIR$/onemetacloud-utility-base/utility-base.iml" filepath="$PROJECT_DIR$/onemetacloud-utility-base/utility-base.iml" />
     </modules>
   </component>

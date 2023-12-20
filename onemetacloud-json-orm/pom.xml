@@ -8,7 +8,7 @@
 		<version>1.0.0-starter</version>
 	</parent>
 	<groupId>cn.ideartefact</groupId>
-	<artifactId>onemetacloud-json-orm</artifactId>
+	<artifactId>json-orm</artifactId>
 	<version>1.0.0-starter</version>
 	<name>json-orm</name>
 	<packaging>jar</packaging>

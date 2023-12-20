@@ -11,10 +11,7 @@
         <module name="utility-base" />
         <module name="json-orm" />
         <module name="onemetacloud-authcenter" />
-        <module name="onemetacloud-json" />
-        <module name="onemetacloud-utility-base" />
         <module name="json" />
-        <module name="onemeta-json-orm" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

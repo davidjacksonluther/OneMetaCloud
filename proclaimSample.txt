@@ -1,0 +1,9 @@
+/**
+  * OneMetaCloud (OpenSource) Modification, Compilement, Distribution and Deployment Allowed.
+  * First (Original) Author   : 丁伟 David Ding
+  * Author's Legal Nationality: 中华人民共和国 People's Republic of China
+  * Project's First Origin    : https://github.com/davidjacksonluther/OneMetaCloud.git
+  * Open Source License       : GNU GENERAL PUBLIC LICENSE (GPL-2.0 license)
+  * Open Source License's URL : https://github.com/davidjacksonluther/OneMetaCloud#GPL-2.0-1-ov-file
+  * Other Regulations         : https://uwtkirl2w48.feishu.cn/wiki/O1ZmwC7NpigVxykeVquchhemnSf#版权使用规则与开源协议诠释
+  */

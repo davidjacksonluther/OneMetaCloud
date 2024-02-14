@@ -8,19 +8,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="authcenter" />
+        <module name="json" />
         <module name="utility-base" />
         <module name="json-orm" />
         <module name="onemetacloud-authcenter" />
-        <module name="json" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="authcenter" target="17" />
-      <module name="json" target="17" />
-      <module name="json-orm" target="17" />
-      <module name="onemetacloud-parent" target="1.5" />
       <module name="OneMetaJsonORM" target="17" />
-      <module name="utility-base" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
